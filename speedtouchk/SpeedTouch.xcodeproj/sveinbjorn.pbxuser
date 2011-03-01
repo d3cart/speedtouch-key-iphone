@@ -1,0 +1,345 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* SpeedTouchK */ = {
+		activeExec = 0;
+		executables = (
+			F41AA1F4131C64920079853C /* SpeedTouchK */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SpeedTouchKeyViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {792, 587}}";
+			sepNavSelRange = "{255, 0}";
+			sepNavVisRange = "{0, 463}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SpeedTouchKeyViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {868, 2618}}";
+			sepNavSelRange = "{2196, 0}";
+			sepNavVisRange = "{2070, 902}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = F41AA1F4131C64920079853C /* SpeedTouchK */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SpeedTouchK */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SpeedTouchK */,
+		);
+		codeSenseManager = F41AA207131C64AE0079853C /* Code sense */;
+		executables = (
+			F41AA1F4131C64920079853C /* SpeedTouchK */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					614,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					574,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 320637762;
+			PBXWorkspaceStateSaveDate = 320637762;
+		};
+		perUserProjectItems = {
+			F41AA273131C68080079853C = F41AA273131C68080079853C /* PBXTextBookmark */;
+			F41AA2AD131C68E10079853C = F41AA2AD131C68E10079853C /* PBXTextBookmark */;
+			F41AA389131C7BE40079853C = F41AA389131C7BE40079853C /* PBXTextBookmark */;
+			F41AA38A131C7BE40079853C = F41AA38A131C7BE40079853C /* PBXTextBookmark */;
+			F41AA38C131C7BE40079853C = F41AA38C131C7BE40079853C /* PBXTextBookmark */;
+			F41AA38E131C7BE40079853C = F41AA38E131C7BE40079853C /* PBXTextBookmark */;
+			F41AA39B131C7D780079853C = F41AA39B131C7D780079853C /* PBXTextBookmark */;
+			F41AA3D9131C82520079853C = F41AA3D9131C82520079853C /* PBXTextBookmark */;
+			F41AA3E0131C82E90079853C = F41AA3E0131C82E90079853C /* PBXTextBookmark */;
+			F41AA4AD131C8ABA0079853C = F41AA4AD131C8ABA0079853C /* PBXTextBookmark */;
+			F41AA4B9131C8B360079853C = F41AA4B9131C8B360079853C /* PlistBookmark */;
+			F41AA4BA131C8B360079853C = F41AA4BA131C8B360079853C /* PlistBookmark */;
+			F41AA4C6131C8B530079853C /* PlistBookmark */ = F41AA4C6131C8B530079853C /* PlistBookmark */;
+		};
+		sourceControlManager = F41AA206131C64AE0079853C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	F41AA1F4131C64920079853C /* SpeedTouchK */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SpeedTouchK;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F41AA206131C64AE0079853C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F41AA207131C64AE0079853C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F41AA273131C68080079853C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F41AA274131C68080079853C /* stkeys.c */;
+		name = "stkeys.c: 41";
+		rLen = 0;
+		rLoc = 1470;
+		rType = 0;
+		vrLen = 905;
+		vrLoc = 1345;
+	};
+	F41AA274131C68080079853C /* stkeys.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = stkeys.c;
+		path = "/Users/sveinbjorn/Desktop/SpeedTouchK-old/stkeys.c";
+		sourceTree = "<absolute>";
+	};
+	F41AA282131C68340079853C /* sha1.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {812, 6613}}";
+			sepNavSelRange = "{2029, 0}";
+			sepNavVisRange = "{1660, 617}";
+		};
+	};
+	F41AA283131C68340079853C /* sha1.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 1190}}";
+			sepNavSelRange = "{1339, 13}";
+			sepNavVisRange = "{1447, 263}";
+		};
+	};
+	F41AA284131C68340079853C /* stkeys.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1326, 3281}}";
+			sepNavSelRange = "{1691, 2}";
+			sepNavVisRange = "{1472, 195}";
+		};
+	};
+	F41AA2AD131C68E10079853C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F41AA283131C68340079853C /* sha1.h */;
+		name = "sha1.h: 11";
+		rLen = 0;
+		rLoc = 348;
+		rType = 0;
+		vrLen = 881;
+		vrLoc = 0;
+	};
+	F41AA389131C7BE40079853C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F41AA284131C68340079853C /* stkeys.c */;
+		name = "stkeys.c: 115";
+		rLen = 0;
+		rLoc = 3083;
+		rType = 0;
+		vrLen = 829;
+		vrLoc = 2845;
+	};
+	F41AA38A131C7BE40079853C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F41AA38B131C7BE40079853C /* StumblerApplication.m */;
+		name = "StumblerApplication.m: 121";
+		rLen = 38;
+		rLoc = 5188;
+		rType = 0;
+		vrLen = 1387;
+		vrLoc = 4651;
+	};
+	F41AA38B131C7BE40079853C /* StumblerApplication.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = StumblerApplication.m;
+		path = "/Users/sveinbjorn/iphone-wireless-read-only/Stumbler/StumblerApplication.m";
+		sourceTree = "<absolute>";
+	};
+	F41AA38C131C7BE40079853C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F41AA38D131C7BE40079853C /* main.c */;
+		name = "main.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1020;
+		vrLoc = 5377;
+	};
+	F41AA38D131C7BE40079853C /* main.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = main.c;
+		path = "/Users/sveinbjorn/iphone-wireless-read-only/Apple80211/main.c";
+		sourceTree = "<absolute>";
+	};
+	F41AA38E131C7BE40079853C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F41AA38F131C7BE40079853C /* MSNetworksManager.m */;
+		name = "MSNetworksManager.m: 109";
+		rLen = 12;
+		rLoc = 4244;
+		rType = 0;
+		vrLen = 1298;
+		vrLoc = 4074;
+	};
+	F41AA38F131C7BE40079853C /* MSNetworksManager.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = MSNetworksManager.m;
+		path = "/Users/sveinbjorn/iphone-wireless-read-only/Stumbler/MSNetworksManager.m";
+		sourceTree = "<absolute>";
+	};
+	F41AA397131C7BF10079853C /* MSNetworksManager.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = MSNetworksManager.h;
+		path = "/Users/sveinbjorn/iphone-wireless-read-only/Stumbler/MSNetworksManager.h";
+		sourceTree = "<absolute>";
+	};
+	F41AA39B131C7D780079853C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F41AA397131C7BF10079853C /* MSNetworksManager.h */;
+		name = "MSNetworksManager.h: 41";
+		rLen = 0;
+		rLoc = 2416;
+		rType = 0;
+		vrLen = 964;
+		vrLoc = 2127;
+	};
+	F41AA3D8131C82520079853C /* IconScannerAppDelegate.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = IconScannerAppDelegate.m;
+		path = /Programming/Projects/IconScanner/IconScannerAppDelegate.m;
+		sourceTree = "<absolute>";
+	};
+	F41AA3D9131C82520079853C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SpeedTouchKeyViewController.h */;
+		name = "SpeedTouchKeyViewController.h: 12";
+		rLen = 0;
+		rLoc = 255;
+		rType = 0;
+		vrLen = 463;
+		vrLoc = 0;
+	};
+	F41AA3E0131C82E90079853C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F41AA3D8131C82520079853C /* IconScannerAppDelegate.m */;
+		name = "IconScannerAppDelegate.m: 341";
+		rLen = 110;
+		rLoc = 10584;
+		rType = 0;
+		vrLen = 1067;
+		vrLoc = 10121;
+	};
+	F41AA4AD131C8ABA0079853C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SpeedTouchKeyViewController.m */;
+		name = "SpeedTouchKeyViewController.m: 90";
+		rLen = 0;
+		rLoc = 2196;
+		rType = 0;
+		vrLen = 902;
+		vrLoc = 2070;
+	};
+	F41AA4B9131C8B360079853C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SpeedTouchKey-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/sveinbjorn/Desktop/SpeedTouchKey/SpeedTouchKey-Info.plist";
+		rLen = 11;
+		rLoc = 0;
+	};
+	F41AA4BA131C8B360079853C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SpeedTouchKey-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/sveinbjorn/Desktop/SpeedTouchKey/SpeedTouchKey-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	F41AA4C6131C8B530079853C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SpeedTouchKey-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/sveinbjorn/Desktop/SpeedTouchK/SpeedTouchKey-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+}
